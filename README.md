@@ -1,5 +1,5 @@
 # Amigo_Secreto
 Desafio proposto pela Alura
 
--- Testando o git por enquanto
+-- Utilizando agora para aprender a como utilizar o git
 
