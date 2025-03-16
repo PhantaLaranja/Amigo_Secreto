@@ -1,5 +1,5 @@
 # Amigo_Secreto
 Desafio proposto pela Alura
 
--- Testando o git por enquanto 2.0
+-- Testando o git por enquanto
 
