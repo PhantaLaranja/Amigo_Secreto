@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 //O principal objetivo deste desafio é fortalecer suas habilidades em lógica de programação. Aqui você deverá desenvolver a lógica para resolver o problema.
 let nomeAmigo = [];
 let resposta;
@@ -90,4 +89,4 @@ function sortearAmigo() {
         resultado.innerHTML = nomeAmigo[i];
     }
 }
->>>>>>> 03809f8d809f9e91052021d71fa865d51a422fb4
+
