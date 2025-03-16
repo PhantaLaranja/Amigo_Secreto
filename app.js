@@ -43,5 +43,3 @@ function sortearAmigo() {
         resultado.innerHTML = nomeAmigo[i];
     }
 }
-
-a
